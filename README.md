@@ -1,1 +1,1 @@
-# accordion-on-github-pages
+# lynthe heeft deze readme aangemaakt.
