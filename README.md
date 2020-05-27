@@ -1,4 +1,4 @@
-# lynthe heeft deze readme aangemaakt.
+# Accordion on GitHub Pages
 
 Opdracht D: Accordion on GitHub Pages https://lynthedb.github.io/MMT4-opdracht4-accordion-on-github-pages/
 
